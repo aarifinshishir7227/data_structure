@@ -51,7 +51,6 @@ public class Sorting {
         for(int k=0;k<arr.length;k++)
             arr[k] = Integer.parseInt(read.readLine());
         
-        int i = 0,j = 0;
         for(int k=0;k<arr.length;k++)
             take(arr);
         for(int k=0;k<arr.length;k++)
